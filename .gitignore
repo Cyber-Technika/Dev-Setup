@@ -1,0 +1,13 @@
+# Local installers / binaries
+bin/*
+!bin/.gitkeep
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Archives & installers
+*.zip
+*.exe
+*.msi
+*.iso

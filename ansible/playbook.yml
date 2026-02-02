@@ -1,0 +1,6 @@
+---
+- name: Developer workstation setup
+  hosts: localhost
+  connection: local
+  roles:
+    - sublime
