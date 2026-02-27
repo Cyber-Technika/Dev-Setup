@@ -3,4 +3,5 @@
   hosts: localhost
   connection: local
   roles:
-    - sublime
+  # - sublime
+    - cytechnika_zsh
