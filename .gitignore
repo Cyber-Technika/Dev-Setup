@@ -2,6 +2,9 @@
 bin/*
 !bin/.gitkeep
 
+# History Folder
+./history/*
+
 # Windows junk
 Thumbs.db
 Desktop.ini
